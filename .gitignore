@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Android
+.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
+
+# IDE
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
